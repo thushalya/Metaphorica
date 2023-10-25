@@ -1,0 +1,21 @@
+# Node.js and React specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+.env*.development
+.env*.test
+.env*.production
+
+# Build files
+build/
+dist/
+out/
+*.log
+*.swp
